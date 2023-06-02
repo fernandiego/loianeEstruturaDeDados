@@ -1,5 +1,7 @@
 package vetor;
 
+import java.util.Arrays;
+
 public class Vetor {
     private String[] elementos;
     private int tamanho;
@@ -7,6 +9,10 @@ public class Vetor {
     public Vetor(int capacidade) {
         this.elementos = new String[capacidade];
         tamanho = 0;
+    }
+
+    public int tamanho() {
+        return this.tamanho;
     }
 
     //    public void adiciona(String elemento) {
@@ -17,6 +23,16 @@ public class Vetor {
 //            }
 //        }
 //    }
+
+
+    @Override
+    public String toString() {
+        return "Vetor{" +
+                "elementos=" + Arrays.toString(elementos) +
+                ", Quantidade de elementos no Array = " + tamanho +
+                '}';
+    }
+
     public void adiciona(String elemento) throws Exception {
         if (this.tamanho < this.elementos.length) {
             this.elementos[this.tamanho] = elemento;
