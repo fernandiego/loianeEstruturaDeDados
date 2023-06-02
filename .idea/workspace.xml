@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
-      <change afterPath="$PROJECT_DIR$/src/aulas/Aula04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/aulas/Aula04.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/aulas/Aula04.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/vetor/Vetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/vetor/Vetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/Aula04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/Aula04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vetor/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetor/Vetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +121,7 @@
       <workItem from="1685726087556" duration="2306000" />
       <workItem from="1685728851507" duration="47000" />
       <workItem from="1685728904057" duration="521000" />
-      <workItem from="1685730206606" duration="5152000" />
+      <workItem from="1685730206606" duration="6183000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>

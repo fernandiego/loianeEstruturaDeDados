@@ -15,7 +15,7 @@ public class Aula04 {
             e.printStackTrace();
         }
 
-//        System.out.println("Quantidades de elementos no Array " + vetor.tamanho());
         System.out.println(vetor.toString());
+        System.out.println("Quantidades de elementos no Array: " + vetor.tamanho());
     }
 }

@@ -27,18 +27,30 @@ public class Vetor {
 
     @Override
     public String toString() {
-        return "Vetor{" +
-                "elementos=" + Arrays.toString(elementos) +
-                ", Quantidade de elementos no Array = " + tamanho +
-                '}';
+        StringBuilder s = new StringBuilder();
+        s.append("[");
+
+        for (int i = 0; i < this.tamanho - 1; i++) {
+            s.append(this.elementos[i]);
+            s.append(", ");
+        }
+        if (this.tamanho > 0) {
+            s.append(this.elementos[this.tamanho-1]);
+        }
+        s.append("]");
+        return s.toString();
+
+//        return "Vetor{" +
+//                "elementos=" + Arrays.toString(elementos) +
+//                ", Quantidade de elementos no Array = " + tamanho +
+//                '}';
     }
 
     public void adiciona(String elemento) throws Exception {
         if (this.tamanho < this.elementos.length) {
             this.elementos[this.tamanho] = elemento;
             this.tamanho++;
-        }
-        else{
+        } else {
             throw new Exception("Vetor está cheio, não foi possível adicionar elemento");
         }
 
