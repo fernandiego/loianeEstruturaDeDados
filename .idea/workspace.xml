@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loianeEstruturaDeDados.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/aulas/Aula03.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/aulas/Aula03.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aulas/Aula03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/Aula03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vetor/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetor/Vetor.java" afterDir="false" />
     </list>
@@ -116,7 +113,7 @@
       <workItem from="1685726087556" duration="2306000" />
       <workItem from="1685728851507" duration="47000" />
       <workItem from="1685728904057" duration="521000" />
-      <workItem from="1685730206606" duration="1925000" />
+      <workItem from="1685730206606" duration="3999000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
@@ -134,6 +131,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula 03 loiane estrutura de dados" />
     <option name="LAST_COMMIT_MESSAGE" value="Aula 03 loiane estrutura de dados" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aulas/Aula03.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aulas/Aula03.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aulas/Aula03.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
