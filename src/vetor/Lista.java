@@ -88,13 +88,22 @@ public class Lista<T> {
             this.elementos = elementosNovos;
         }
     }
+
     public void remover(int posicao) {
-       if (posicao <= 0 && posicao > tamanho) {
+        if (posicao <= 0 && posicao > tamanho) {
             throw new IllegalArgumentException("Posição inválida");
         }
-       for (int i = posicao; i <= this.tamanho-1; i++) {
-            this.elementos[i] = this.elementos[i+1];
+        for (int i = posicao; i <= this.tamanho - 1; i++) {
+            this.elementos[i] = this.elementos[i + 1];
         }
         this.tamanho--;
+    }
+
+    public boolean contem(T elemento) {
+        int pos = busca(elemento);
+        if (pos > -1) {
+            return true;
+        }
+        return busca(elemento) > -1;
     }
 }
