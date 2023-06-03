@@ -62,6 +62,7 @@ public class Vetor {
     }
 
     public void adiciona(String elemento) throws Exception {
+        this.aumentaCapacidade();
         if (this.tamanho < this.elementos.length) {
             this.elementos[this.tamanho] = elemento;
             this.tamanho++;
@@ -75,13 +76,24 @@ public class Vetor {
         if (posicao <= 0 && posicao > tamanho) {
             throw new IllegalArgumentException("Posição inválida");
         }
+        this.aumentaCapacidade();
         //movendo os elementos uma posicão para a direita
-        for (int i = this.tamanho; i >= posicao  ; i--) {
-            this.elementos[i+1] = this.elementos[i];
+        for (int i = this.tamanho; i >= posicao; i--) {
+            this.elementos[i + 1] = this.elementos[i];
         }
         this.elementos[posicao] = elemento;
         this.tamanho++;
 
         return false;
+    }
+
+    private void aumentaCapacidade() {
+        if (this.tamanho == this.elementos.length) {
+            String[] elementosNovos = new String[this.elementos.length * 5];
+            for (int i = 0; i < this.elementos.length; i++) {
+                elementosNovos[i] = this.elementos[i];
+            }
+            this.elementos = elementosNovos;
+        }
     }
 }
