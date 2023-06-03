@@ -1,6 +1,8 @@
 package aulas;
 
 import vetor.Vetor;
+
+//Verifica quantos elementos tem no vetor
 public class Aula04 {
     public static void main(String[] args) {
 

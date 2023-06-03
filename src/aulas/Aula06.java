@@ -2,6 +2,7 @@ package aulas;
 
 import vetor.Vetor;
 
+//busca se elemento está no vetor
 public class Aula06 {
     public static void main(String[] args) {
         Vetor vetor = new Vetor(10);

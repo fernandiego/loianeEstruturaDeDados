@@ -1,6 +1,8 @@
 package aulas;
 
 import vetor.Vetor;
+
+//Adiciona elementos no vetor
 public class Aula03 {
     public static void main(String[] args) {
 
