@@ -115,4 +115,12 @@ public class Lista<T> {
         }
         return -1;
     }
+
+    public void remove(T elemento) {
+        int pos = this.busca(elemento);
+        if (pos > -1) {
+            this.remover(pos);//usa o método REMOVER
+
+        }
+    }
 }
