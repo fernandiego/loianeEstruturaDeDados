@@ -7,9 +7,9 @@ public class Aula10 {
     public static void main(String[] args) throws Exception {
         VetorObj vetorObj = new VetorObj(5);
 
-        Contato c1 = new Contato("Contato 1", "12345-111", "contato1@email.com");
-        Contato c2 = new Contato("Contato 2", "12345-222", "contato2@email.com");
-        Contato c3 = new Contato("Contato 3", "12345-333", "contato3@email.com");
+        Contato c1 = new Contato("nome1","12345", "email1");
+        Contato c2 = new Contato("nome2","02345", "email2");
+        Contato c3 = new Contato("nome3","12346", "email3");
 
         vetorObj.adiciona(c1);
         vetorObj.adiciona(c2);

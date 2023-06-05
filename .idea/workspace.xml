@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
-      <change afterPath="$PROJECT_DIR$/src/labs/Exe04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/Exe06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/vetor/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/vetor/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/Aula10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/Aula10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs/Exe05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/Exe05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetor/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetor/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vetor/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetor/Lista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,38 +65,12 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exe04">
+  <component name="RunManager" selected="Application.Exe06">
     <configuration name="Aula03" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/jbr-17.0.7" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="aulas.Aula03" />
       <module name="loianeEstruturaDeDados" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulas.Aula12" />
-      <module name="loianeEstruturaDeDados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exe01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.Exe01" />
-      <module name="loianeEstruturaDeDados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="labs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,13 +114,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exe05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.Exe05" />
+      <module name="loianeEstruturaDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exe06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.Exe06" />
+      <module name="loianeEstruturaDeDados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exe06" />
+        <item itemvalue="Application.Exe05" />
         <item itemvalue="Application.Exe04" />
         <item itemvalue="Application.Exe03" />
         <item itemvalue="Application.Exe02" />
-        <item itemvalue="Application.Exe01" />
-        <item itemvalue="Application.Aula12" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +168,7 @@
       <workItem from="1685728904057" duration="521000" />
       <workItem from="1685730206606" duration="12630000" />
       <workItem from="1685798545358" duration="9229000" />
-      <workItem from="1685978317071" duration="2981000" />
+      <workItem from="1685978317071" duration="12813000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
@@ -225,6 +229,21 @@
           <url>file://$PROJECT_DIR$/src/aulas/Aula12.java</url>
           <line>10</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labs/Exe06.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labs/Exe06.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labs/Exe06.java</url>
+          <line>219</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
