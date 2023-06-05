@@ -20,7 +20,7 @@ public class Lista<T> {
         return this.tamanho;
     }
 
-    public Object busca(int posicao) {
+    public T busca(int posicao) {
         if (posicao <= 0 && posicao > tamanho) {
             throw new IllegalArgumentException("Posição inválida");
         }
@@ -122,5 +122,9 @@ public class Lista<T> {
             this.remover(pos);//usa o método REMOVER
 
         }
+    }
+
+    public T obtem(int posicao) {
+        return this.busca(posicao);
     }
 }
