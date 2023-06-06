@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
-      <change afterPath="$PROJECT_DIR$/src/aulas/Aula15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulas/Aula16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pilha/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pilha/Pilha.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula15">
+  <component name="RunManager" selected="Application.Aula16">
     <configuration name="Aula03" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/jbr-17.0.7" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.Exe06" />
+    <configuration name="Aula16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Aula16" />
       <module name="loianeEstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.*" />
+          <option name="PATTERN" value="aulas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula16" />
         <item itemvalue="Application.Aula15" />
         <item itemvalue="Application.Aula14" />
         <item itemvalue="Application.Aula13" />
         <item itemvalue="Application.Exe07" />
-        <item itemvalue="Application.Exe06" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,7 @@
       <workItem from="1685730206606" duration="12630000" />
       <workItem from="1685798545358" duration="9229000" />
       <workItem from="1685978317071" duration="15179000" />
-      <workItem from="1686071373045" duration="4200000" />
+      <workItem from="1686071373045" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
