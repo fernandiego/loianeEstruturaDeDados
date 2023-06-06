@@ -2,8 +2,6 @@ package pilha;
 
 import base.EstruturaEstatica;
 
-import java.util.Arrays;
-
 
 
 public class Pilha<T> extends EstruturaEstatica<T> {
