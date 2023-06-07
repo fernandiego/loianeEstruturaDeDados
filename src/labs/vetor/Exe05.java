@@ -1,4 +1,4 @@
-package labs;
+package labs.vetor;
 
 import vetor.Lista;
 
