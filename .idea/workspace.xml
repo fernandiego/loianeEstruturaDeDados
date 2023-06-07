@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
-      <change afterPath="$PROJECT_DIR$/src/labs/pilha/Exe04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs/pilha/Exe05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exe04">
+  <component name="RunManager" selected="Application.Exe05">
     <configuration name="Aula03" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/jbr-17.0.7" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.vetor.Exe03" />
+    <configuration name="Exe04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.pilha.Exe04" />
       <module name="loianeEstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.vetor.*" />
+          <option name="PATTERN" value="labs.pilha.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.pilha.Exe04" />
+    <configuration name="Exe05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.pilha.Exe05" />
       <module name="loianeEstruturaDeDados" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exe05" />
         <item itemvalue="Application.Exe04" />
         <item itemvalue="Application.labs.pilha.Exe03" />
         <item itemvalue="Application.Exe02" />
         <item itemvalue="Application.Exe01" />
-        <item itemvalue="Application.Exe03" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1685978317071" duration="15179000" />
       <workItem from="1686071373045" duration="6290000" />
       <workItem from="1686085563987" duration="2755000" />
-      <workItem from="1686155532798" duration="5432000" />
+      <workItem from="1686155532798" duration="7657000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
