@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
+      <change afterPath="$PROJECT_DIR$/src/aulas/Aula23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste/Classe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste/Interface1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fila/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fila/Fila.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -57,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="teste" />
       <recent name="base" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -169,7 +173,7 @@
       <workItem from="1685978317071" duration="15179000" />
       <workItem from="1686071373045" duration="6290000" />
       <workItem from="1686085563987" duration="2755000" />
-      <workItem from="1686155532798" duration="20964000" />
+      <workItem from="1686155532798" duration="22283000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
