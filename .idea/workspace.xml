@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
+      <change afterPath="$PROJECT_DIR$/src/aulas/Aula21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulas/Aula20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/Aula20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fila/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fila/Fila.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula20">
+  <component name="RunManager" selected="Application.Aula21">
     <configuration name="Aula03" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/jbr-17.0.7" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exe06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.pilha.Exe06" />
+    <configuration name="Aula21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.Aula21" />
       <module name="loianeEstruturaDeDados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.pilha.*" />
+          <option name="PATTERN" value="aulas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula21" />
         <item itemvalue="Application.Aula20" />
         <item itemvalue="Application.Aula19" />
         <item itemvalue="Application.Exe08" />
         <item itemvalue="Application.Exe07" />
-        <item itemvalue="Application.Exe06" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,7 @@
       <workItem from="1685978317071" duration="15179000" />
       <workItem from="1686071373045" duration="6290000" />
       <workItem from="1686085563987" duration="2755000" />
-      <workItem from="1686155532798" duration="19575000" />
+      <workItem from="1686155532798" duration="19913000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
@@ -280,6 +281,11 @@
           <url>file://$PROJECT_DIR$/src/labs/pilha/Exe06.java</url>
           <line>36</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aulas/Aula20.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
