@@ -22,4 +22,15 @@ public class Fila<T> extends EstruturaEstatica<T> {
 
         return this.elementos[0];
     }
+
+    public T desenfileira() {
+
+        final int Pos = 0;
+        if (this.estaVazia()) {
+            return null;
+        }
+        T elementoNoInicioDaFila = this.elementos[Pos];
+        this.remove(Pos);
+        return elementoNoInicioDaFila;
+    }
 }
