@@ -7,5 +7,10 @@ public class ListaEncadeadaTeste {
 
         System.out.println("Tamanho da lista: " + lista.getTamanho());
         System.out.println(lista);
+
+        lista.adiciona(2);
+        System.out.println(lista);
+        lista.adiciona(3);
+        System.out.println(lista);
     }
 }

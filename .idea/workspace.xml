@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4900fc0d-9f39-475f-88b5-19053df34787" name="Changes" comment="Aula 03 loiane estrutura de dados">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/lista/ListaEncadeada.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/lista/ListaEncadeada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/lista/ListaEncadeadaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/loianeEstruturaDeDados/lista/ListaEncadeadaTeste.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lista/ListaEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista/ListaEncadeada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lista/ListaEncadeadaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista/ListaEncadeadaTeste.java" afterDir="false" />
     </list>
@@ -174,7 +176,7 @@
       <workItem from="1686071373045" duration="6290000" />
       <workItem from="1686085563987" duration="2755000" />
       <workItem from="1686155532798" duration="27538000" />
-      <workItem from="1686406124725" duration="11544000" />
+      <workItem from="1686406124725" duration="13361000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 03 loiane estrutura de dados">
       <created>1685728446115</created>
