@@ -12,5 +12,8 @@ public class ListaEncadeadaTeste {
         System.out.println(lista);
         lista.adiciona(3);
         System.out.println(lista);
+
+//        lista.limpa();
+//        System.out.println(lista);
     }
 }
